@@ -6,9 +6,8 @@
 This is a final project I made for my second semester sophomore VRAR Game Creation Fundamentals class.
 It was created using Unity.
 
-
-##GAME TITLE
+GAME TITLE
 The LAST TREASURE
 
-##Game genre
+Game genre
 3D Action Game
