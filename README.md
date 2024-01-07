@@ -11,3 +11,6 @@ The LAST TREASURE
 
 Game genre
 3D Action Game
+
+개발 일지
+https://url.kr/7xomaq
